@@ -6,7 +6,7 @@
 # telegram   » https://t.me/nvtryn
 # whatsapp   » wa.me/082300115583
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Gemilangkinasih࿐
+# Vallstore࿐
 
 Green="\e[92;1m"
 RED="\033[31m"
